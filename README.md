@@ -12,5 +12,7 @@ em andamento...
 :octocat: [Progress Steps](https://github.com/biacoelho/50projects50days-html-css-js/tree/main/day2-progress-steps)
 <br />**Dia 03** |
 :octocat: [Rotating Navigation](https://github.com/biacoelho/50projects50days-html-css-js/tree/main/day3-rotating-navigation)
+<br />**Dia 04** |
+:octocat: [Hidden Search Widget](https://github.com/biacoelho/50projects50days-html-css-js/tree/main/day4-hidden-search-widget)
 
 
